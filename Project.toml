@@ -1,0 +1,10 @@
+name = "continuousEntropyEstimators"
+uuid = "05833638-9f75-11e8-01a6-c77e4aa87f77"
+authors = ["dsweber <david.weber2@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cumulants = "01e79fc4-f247-5fa3-af0e-2bd1d4cc767f"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+NearestNeighbors = "b8a86587-4115-5ab1-83bc-aa920d37bbce"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
